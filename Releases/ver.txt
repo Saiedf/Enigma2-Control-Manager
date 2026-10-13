@@ -1,4 +1,4 @@
 1.42
 https://raw.githubusercontent.com/Saiedf/Enigma2-Control-Manager/main/Releases/NewFtp.exe
 Enigma2 Control Manager
-SHA256=47258a90af50eb1b06519333c1a3d9e0639d9eba23485041775cdcc5c4af5d73
+SHA256=23344329f0523791b2bf2895cedc2163da022c37bd2755f2084f8933f5a60faa
